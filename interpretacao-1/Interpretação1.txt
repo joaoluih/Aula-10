@@ -1,0 +1,8 @@
+Interpretação 1- 
+console.log('a, ', array) - vai imprimir a, undefined
+console.log('b, ', array) - vai imprimir b, null
+console.log('c, ', array.length) - imprimir c, 11
+console.log('d, ', array[i]) - vai imprimir d, 3
+console.log('e, ', array) - vai imprimir e, 11
+console.log('f, ', valor) vai imprimir f, 9
+

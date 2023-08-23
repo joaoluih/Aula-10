@@ -1,0 +1,2 @@
+Interpretação 2
+console.log vai imprimir SUBI NUM ONIBUS EM MIRRICOS, 27
