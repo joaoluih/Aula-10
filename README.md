@@ -1,2 +1,2 @@
 # Aula-10
-Exercícios com Strings e Arrays em JavaScript.
+Exercícios com Strings e Arrays em JavaScript
